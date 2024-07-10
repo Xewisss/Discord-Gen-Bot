@@ -7,7 +7,7 @@ Bot Code
 
 Nasıl çalışır?
 
-Öncelikle ".create SERVICENAME" kullanarak bir servis oluşturmanız gerekiyor, bu bir SERVICENAME.txt dosyası oluşturacaktır, bunu manuel olarak da oluşturabilirsiniz.
+Öncelikle "| .create SERVICENAME" kullanarak bir servis oluşturmanız gerekiyor, bu bir SERVICENAME.txt dosyası oluşturacaktır, bunu manuel olarak da oluşturabilirsiniz.
 Daha sonra manuel olarak veya "add mail:password SERVICENAME" komutuyla hesapları buna ekleyin; bu, SERVICENAME.txt dosyasının ilk satırını alıp kullanıcının DM'sine gönderecektir. Kaynak kodunda, if (message.channel.id === "Channel_ID") satırındaki "Kanal Kimliği"ni, botun çalışmasını istediğiniz kanalın kimliğiyle değiştirmeyi unutmayın.
 
 Support
