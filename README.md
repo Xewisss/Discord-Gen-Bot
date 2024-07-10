@@ -1,9 +1,9 @@
 Bot Code
 
-/create [hizmet adı] - seçtiğiniz adla bir .txt dosyası oluşturur. Kullanıcılar artık bu hizmetin bir hesabını oluşturabilecekler.
-/add [kimlik bilgileri][hizmet adı] - bu, yazdığınız hesabı seçtiğiniz hizmetin .txt dosyasına ekleyecektir.
-/gen [hizmet adı] - bu, söz konusu hizmetin ilk hesabını alıp dms'ye gönderecektir
-/restock [hizmet adı] - bu, tüm sunucuya hizmetin bir yönetici tarafından yeniden stoklandığını belirten bir bildirim gönderecektir.
+.create [hizmet adı] - seçtiğiniz adla bir .txt dosyası oluşturur. Kullanıcılar artık bu hizmetin bir hesabını oluşturabilecekler.
+.add [kimlik bilgileri][hizmet adı] - bu, yazdığınız hesabı seçtiğiniz hizmetin .txt dosyasına ekleyecektir.
+.gen [hizmet adı] - bu, söz konusu hizmetin ilk hesabını alıp dms'ye gönderecektir
+.restock [hizmet adı] - bu, tüm sunucuya hizmetin bir yönetici tarafından yeniden stoklandığını belirten bir bildirim gönderecektir.
 
 Nasıl çalışır?
 
@@ -16,6 +16,9 @@ Mail: xewisbusiness@gmail.com
 Discord: xewisss
 Discord Server : https://discord.gg/NJRHD44hpb
 
+Botun Prefix
+
+( . )
 
 Değiştirmeniz Gereken Yerler
 
