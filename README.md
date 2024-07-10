@@ -14,7 +14,7 @@ Support
 
 Mail: xewisbusiness@gmail.com
 Discord: xewisss
-Discord Server : https://discord.gg/NJRHD44hpb
+Discord Server : https://discord.gg/4p4nqtc4bj
 
 Botun Prefix
 
