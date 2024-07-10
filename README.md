@@ -15,3 +15,13 @@ Support
 Mail: xewisbusiness@gmail.com
 Discord: xewisss
 Discord Server : https://discord.gg/NJRHD44hpb
+
+
+Değiştirmeniz Gereken Yerler
+
+İndex.js Dosyasını Düzenle Yapıp 
+
+28. Satırdaki Channel_ID | Gen Yapacağı Kanal ID Giriniz
+163. Satırdaki "TOKEN" | Bot Tokeninizi Giriniz
+
+🌟 Star Vermeyi Unutma Güzellik
