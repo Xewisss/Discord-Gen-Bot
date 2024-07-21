@@ -25,7 +25,7 @@ bot.on("ready", () => {
 });
 
 bot.on("message", message => {
-    if (message.channel.id === "ChannelID") { //Channel_ID Botun Gen Yapacağı Kanalın ID
+    if (message.channel.id === "1263445419451486294") { //Channel_ID Botun Gen Yapacağı Kanalın ID
         if (message.author.bot) return;
         var command = message.content
             .toLowerCase()
@@ -33,13 +33,13 @@ bot.on("message", message => {
             .split(" ")[0];
 
         if (command === "test") {
-            message.channel.send("Test done, bot is working"); /// tırnak içindekini türkçeye çevirebilirsin
+            message.channel.send("Bot Çalışıyor"); /// tırnak içindekini türkçeye çevirebilirsin
         }
 
         if (command === "gen") {
             if (generated.has(message.author.id)) {
                 message.channel.send(
-                    "Wait 15 minute before generating another account!. - " + /// tırnak içindekini türkçeye çevirebilirsin
+                    "Yeni Bir Hesap Oluşturmak İçin 15 Dakika Bekleyiniz. - " + /// tırnak içindekini türkçeye çevirebilirsin
                     message.author
                 );
             } else {
